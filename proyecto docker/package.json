@@ -1,0 +1,12 @@
+{
+  "name": "servidor-web-docker",
+  "version": "1.0.0",
+  "description": "Servidor web con Node.js y Docker - Programación Distribuida",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
